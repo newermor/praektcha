@@ -1,9 +1,12 @@
 import Header from "../components/header";
 
 function Novosti() {
-    return ( 
-        <Header/>
-     );
+  return (
+    <>
+      <Header />
+      new page
+    </>
+  );
 }
 
 export default Novosti;

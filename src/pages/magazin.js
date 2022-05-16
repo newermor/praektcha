@@ -2,7 +2,10 @@ import Header from "../components/header";
 
 function Magazin() {
     return ( 
-        <Header/>
+        <>
+        <Header />
+        magazin page
+        </>
      );
 }
 
